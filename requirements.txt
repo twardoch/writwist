@@ -1,0 +1,9 @@
+aksharamukha>=1.8.1
+lxml>=4.6.2
+yaplon>=1.5.7
+#lupa
+#git+https://github.com/kbatsuren/wiktra
+langcodes>=3.1.0
+lumi-language-id>=0.2.1
+fasttext-langdetect>=1.0.2
+uharfbuzz>=0.16.1
